@@ -7,8 +7,8 @@ Id.:  000531329
 Descripción del proyecto: La idea de este proyecto es poner en práctica todo lo aprendido en la unidad 1 de Fundamentos de Programación de la carrera de Ingeniería Aeronáutica en la Universidad Pontificia Bolivariana.
 
 ## Tabla de contenidos:
-Documentación: C:\Users\B09S202est\Documents\Prog_2026_smb\prog-git-funtamentals-SamuelMejiaBravo\docs
-Imágenes: C:\Users\B09S202est\Documents\Prog_2026_smb\prog-git-funtamentals-SamuelMejiaBravo\images
+[Documentación](../prog-git-funtamentals-SamuelMejiaBravo/docs/)
+[Imágenes](../prog-git-funtamentals-SamuelMejiaBravo/images/)
 [Source](../prog-git-funtamentals-SamuelMejiaBravo/src/srcipt.py)
 
 ## Cómo clonar un repositorio remoto:
