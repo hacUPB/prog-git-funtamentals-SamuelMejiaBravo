@@ -18,3 +18,21 @@
 17. git remote -v es para ver si sí conectó al repositorio remoto
 18. git push -u "conexión" "rama" es para enviar el commit al repositorio remoto y que quede guardado en la nube
 19. git pull es para devolverse en un commit
+
+Ejemplos:
+
+1. 
+
+![Commits](../images/commit.png)
+
+2. 
+
+![Creación de archivos y carpetas](../images/creacion_archivos.png)
+
+3. 
+
+![Cómo se ve un código python](../images/source.png)
+
+4. 
+
+![Así se ve el gitignore](../images/ignore.png)
