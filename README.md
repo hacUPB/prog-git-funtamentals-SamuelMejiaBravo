@@ -10,6 +10,7 @@ Descripción del proyecto: La idea de este proyecto es poner en práctica todo l
 [Documentación](../prog-git-funtamentals-SamuelMejiaBravo/docs/)
 [Uso de la consola](../prog-git-funtamentals-SamuelMejiaBravo/docs/uso_consola.md)
 [Explicación de repositorio local](../prog-git-funtamentals-SamuelMejiaBravo/docs/repositorio_local.md)
+[Explicación de repositorio remoto](../prog-git-funtamentals-SamuelMejiaBravo/docs/repositorio_remoto.md)
 [Imágenes](../prog-git-funtamentals-SamuelMejiaBravo/images/)
 [Source](../prog-git-funtamentals-SamuelMejiaBravo/src/srcipt.py)
 
