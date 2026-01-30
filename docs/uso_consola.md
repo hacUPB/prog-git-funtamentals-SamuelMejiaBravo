@@ -19,7 +19,7 @@
 18. git push -u "conexión" "rama" es para enviar el commit al repositorio remoto y que quede guardado en la nube
 19. git pull es para devolverse en un commit
 
-Ejemplos:
+## Ejemplos:
 
 1. 
 
