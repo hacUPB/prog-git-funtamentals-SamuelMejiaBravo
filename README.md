@@ -1,8 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante:  Samuel Mejía Bravo
+Id.:  000531329
+Descripción del proyecto: La idea de este proyecto es poner en práctica todo lo aprendido en la unidad 1 de Fundamentos de Programación de la carrera de Ingeniería Aeronáutica en la Universidad Pontificia Bolivariana.
+### Tabla de contenidos:
+Documentación: C:\Users\B09S202est\Documents\Prog_2026_smb\prog-git-funtamentals-SamuelMejiaBravo\docs
+Imágenes: C:\Users\B09S202est\Documents\Prog_2026_smb\prog-git-funtamentals-SamuelMejiaBravo\images
+Source:
+C:\Users\B09S202est\Documents\Prog_2026_smb\prog-git-funtamentals-SamuelMejiaBravo\src
 ---
 # Evaluación
 
