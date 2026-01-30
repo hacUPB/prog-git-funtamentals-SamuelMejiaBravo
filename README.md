@@ -1,7 +1,29 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+
+Nombre del estudiante:  Samuel Mejía Bravo
+Id.:  000531329
+Descripción del proyecto: La idea de este proyecto es poner en práctica todo lo aprendido en la unidad 1 de Fundamentos de Programación de la carrera de Ingeniería Aeronáutica en la Universidad Pontificia Bolivariana.
+
+## Tabla de contenidos:
+[Documentación](../prog-git-funtamentals-SamuelMejiaBravo/docs/)
+
+[Uso de la consola](../prog-git-funtamentals-SamuelMejiaBravo/docs/uso_consola.md)
+
+[Explicación de repositorio local](../prog-git-funtamentals-SamuelMejiaBravo/docs/repositorio_local.md)
+
+[Explicación de repositorio remoto](../prog-git-funtamentals-SamuelMejiaBravo/docs/repositorio_remoto.md)
+
+[Imágenes](../prog-git-funtamentals-SamuelMejiaBravo/images/)
+
+[Source](../prog-git-funtamentals-SamuelMejiaBravo/src/srcipt.py)
+
+## Cómo clonar un repositorio remoto:
+Clonar un repositorio remoto es de suma importancia y es realmente sencillo, los pasos a seguir son los siguientes:
+1. Ir al repositorio remoto.
+2. Copiar el enlace.
+3. Ir a la consola y escribir: git clone <<enlace al repositorio remoto>>
 ---
 # Evaluación
 
