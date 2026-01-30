@@ -9,8 +9,7 @@ Descripción del proyecto: La idea de este proyecto es poner en práctica todo l
 ## Tabla de contenidos:
 Documentación: C:\Users\B09S202est\Documents\Prog_2026_smb\prog-git-funtamentals-SamuelMejiaBravo\docs
 Imágenes: C:\Users\B09S202est\Documents\Prog_2026_smb\prog-git-funtamentals-SamuelMejiaBravo\images
-Source:
-C:\Users\B09S202est\Documents\Prog_2026_smb\prog-git-funtamentals-SamuelMejiaBravo\src
+[Source](../prog-git-funtamentals-SamuelMejiaBravo/src/srcipt.py)
 
 ## Cómo clonar un repositorio remoto:
 Clonar un repositorio remoto es de suma importancia y es realmente sencillo, los pasos a seguir son los siguientes:
